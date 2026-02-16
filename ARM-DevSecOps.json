@@ -97,7 +97,7 @@
         "name": "S1",
         "tier": "Standard",
         "size": "S1",
-        "family": "S"
+        "family": "S",
         "capacity": 1
       },
       "kind": "linux",
@@ -341,4 +341,5 @@
     }
   }
 }
+
 
